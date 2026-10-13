@@ -2,9 +2,7 @@
 
 ## Sobre o projeto
 
-Projeto de análise de dados de reservas de hotéis, desenvolvido para praticar SQL, Power BI e explorar indicadores de desempenho dos Hotéis.
-
-O dashboard apresenta informações sobre receita, reservas, diárias médias, hóspedes e demandas por estacionamento.
+Projeto de análise de dados de reservas de hotéis, desenvolvido para praticar SQL, Power BI e explorar indicadores de desempenho dos Hotéis. O dashboard apresenta informações sobre receita, reservas, diárias médias, hóspedes e demandas por estacionamento.
 
 ## Perguntas respondidas
 
